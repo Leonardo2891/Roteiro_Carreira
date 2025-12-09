@@ -2,9 +2,9 @@ Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você.
 
 Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
 
-════════════════════════════════════════════════════════════
+
 🥇 1º LUGAR: Desenvolvedor Web Full Stack – 18/20
-════════════════════════════════════════════════════════════
+
 
 💡 Por que combina com você:
 
@@ -26,9 +26,9 @@ Necessidade de prática constante em projetos reais.
 
 📈 Mercado:Desenvolvedores web são requisitados em praticamente todas as regiões e setores, variando conforme experiência e especialização.
 
-════════════════════════════════════════════════════════════
+
 🥈 2º LUGAR: Desenvolvedor Mobile (Apps Android/iOS) – 16/20
-════════════════════════════════════════════════════════════
+
 
 💡 Por que combina com você:
 
@@ -50,9 +50,9 @@ Ciclo de atualização rápido das plataformas.
 
 📈 Mercado:O mercado mobile é competitivo, mas há alta demanda por desenvolvedores que dominem frameworks multiplataforma.
 
-════════════════════════════════════════════════════════════
+
 🥉 3º LUGAR: Cientista de Dados/IA Júnior – 14/20
-════════════════════════════════════════════════════════════
+
 
 💡 Por que combina com você:
 
@@ -73,5 +73,3 @@ Ramp-up mais longo (estatística, programação, machine learning).
 Necessidade de base sólida em matemática e lógica.
 
 📈 Mercado:A demanda por profissionais de dados cresce globalmente, mas varia conforme região e maturidade das empresas.
-
-════════════════════════════════════════════════════════════
